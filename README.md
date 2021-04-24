@@ -8,7 +8,7 @@ This repo includes analysis of air pollutation based on measurements from 1983 t
 
 **Third part** is almost union previous ones where some extra things were added. Mainly it contains:
 
-  - statistics of series;
+  - statistical analysis of series;
   - detecting anomalies using Box Plot, Z-score, Isolation Forest and Local Outlier Factor;
   - Classification of anomalies using Logistic Regression, Random Forest, Lightgbm
   - Forecasting series using Random Forest, Lightgbm, Ridge Regression, (Bi)LSTM
