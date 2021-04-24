@@ -6,7 +6,7 @@ This repo includes analysis of air pollutation based on measurements from 1983 t
 
 **Second part** is more for prediction series. It includes choosing the best series to analyze based on minimum missed values. Here's almost no checking hypotheses but different models to forecast used: Prophet (Facebook), Holt-Winters(exponential smoothing), SARIMA, LSTM, BiLSTM. It's made in 2020
 
-**Third part** is almost union previous ones where some extra things were added. Mainly in contains:
+**Third part** is almost union previous ones where some extra things were added. Mainly it contains:
 
   - statistics of series;
   - detecting anomalies using Box Plot, Z-score, Isolation Forest and Local Outlier Factor;
